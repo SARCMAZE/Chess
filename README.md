@@ -14,10 +14,6 @@
 </ul>
 
 #### Steps to Use:
-
-``
-```
-
 - Go to the directory
 - Run the index.html file
 - Start Playing!!!
